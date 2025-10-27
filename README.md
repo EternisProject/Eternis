@@ -24,7 +24,7 @@ ETERNIS aims to democratize research funding by removing traditional gatekeepers
 
 ### Proposed Solution
 A decentralized platform where:
-- Researchers submit proposals anonymously
+- Researchers submit proposals anonymoussly
 - Community votes on funding allocation
 - All transactions are recorded on-chain for transparency
 - Global participation without intermediaries
@@ -64,10 +64,7 @@ A decentralized platform where:
 The following features are **planned** but not currently functional:
 
 - ❌ Actual blockchain integration (wallet connection files are placeholder)
-- ❌ Token ($ETRNS) smart contracts
 - ❌ On-chain voting mechanisms
-- ❌ Cryptocurrency transactions
-- ❌ Token reward distribution
 - ❌ Advanced analytics dashboard
 - ❌ DAO governance structures
 - ❌ Mobile applications
@@ -104,50 +101,6 @@ This prototype proves:
 3. **Database Architecture** - Scalable schema design for future features
 4. **API Structure** - RESTful endpoints ready for expansion
 5. **Internationalization** - Foundation for global reach
-
----
-
-## 💼 For Potential Investors
-
-### What You're Looking At
-
-This is an **MVP (Minimum Viable Product)** designed to:
-- Validate core assumptions about user behavior
-- Demonstrate technical capability of the team
-- Showcase the UI/UX vision
-- Prove the concept before significant investment
-
-### Development Status
-
-**Completed:** ~30% of full vision
-- ✅ User authentication
-- ✅ Basic proposal system
-- ✅ Simple voting mechanism
-- ✅ Database architecture
-
-**Next Phase Required:**
-- Blockchain integration
-- Smart contract development
-- Token economics implementation
-- Security hardening
-- Comprehensive testing
-
-### Investment Opportunity
-
-This prototype represents the **foundation** for a platform targeting:
-- **Medical research funding market:** $240B+ annually
-- **Technology research sector:** $2T+ market
-- **DeFi/Web3 growth:** Rapidly expanding user base
-
-**What Investment Enables:**
-- Full blockchain integration development
-- Smart contract auditing and deployment
-- Token launch and liquidity provision
-- Team expansion (blockchain developers, security experts)
-- Marketing and user acquisition
-- Legal compliance and licensing
-
----
 
 ## 📈 Roadmap
 
@@ -207,64 +160,5 @@ See `/docs/DATABASE.md` for complete schema design including:
 - 📊 Activity tracking
 - 🌍 Bilingual interface (EN/ZH)
 - 📋 User dashboard
-
----
-
-## ⚠️ Limitations & Disclaimers
-
-**This is a prototype.** It is:
-- Not production-ready
-- Missing critical blockchain features
-- Not security-audited
-- Intended for demonstration purposes
-- Requires significant development before launch
-
-**Do not:**
-- Use with real funds
-- Deploy publicly without security review
-- Assume all documented features are functional
-
----
-
-## 🔒 Security Note
-
-Current security measures:
-- JWT session management
-- OAuth provider verification
-- Basic input validation
-- SQL injection prevention
-
-**Still needed:**
-- Comprehensive security audit
-- Penetration testing
-- Smart contract auditing
-- Rate limiting and DDoS protection
-- Advanced encryption standards
-
----
-
-## 📚 Documentation
-
-Available in `/docs`:
-- `DATABASE.md` - Complete database schema (including future tables)
-- `I18N_GUIDE.md` - Internationalization implementation
-- `LOGS_GUIDE.md` - Logging system
-- `NOTIFICATIONS.md` - Notification system
-
----
-
-## 💬 Contact
-
-This project is currently in stealth mode. For investment or partnership inquiries, please use appropriate channels.
-
----
-
-## 📄 License
-
-**All Rights Reserved** - Proprietary
-
-This is private, confidential code intended for investor demonstration purposes only.
-
----
 
 *ETERNIS - Building the future of decentralized research, one step at a time.*
