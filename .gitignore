@@ -1,0 +1,15 @@
+# Block everything by default
+*
+
+# Allow .gitignore itself
+!.gitignore
+
+# Allow necessary directories to reach users.manager.js
+!src/
+!src/models/
+
+# Allow users.manager.js
+!src/models/users.manager.js
+
+# Note: All other files and directories are blocked
+# users.manager.js is privacy-focused and safe to share as it contains no sensitive data
