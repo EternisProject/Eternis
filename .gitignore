@@ -4,6 +4,9 @@
 # Allow .gitignore itself
 !.gitignore
 
+# Allow README.md
+!README.md
+
 # Allow necessary directories to reach users.manager.js
 !src/
 !src/models/
